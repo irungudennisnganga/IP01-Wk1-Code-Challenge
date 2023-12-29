@@ -8,9 +8,9 @@ This project is used to solve the following problems :
 
  1 converting time based on the period either 'AM' or 'PM', to 24 hours system .
 
- 2 The second solution is to check tuple if it contains only
-    two positive numbers, if they are more than two it will return,
-    False and if they are only two it will return True.
+ 2 The second solution is to check  three integers a, b, and c as arguments, if it contains only
+    two positive numbers return True, if they are more than two or less than two it will return
+    False.
 
 ## Project Setup
 
